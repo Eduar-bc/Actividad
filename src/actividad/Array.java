@@ -40,6 +40,7 @@ public class Array {
         }
         
         // Mostrar los resultados
+        System.out.println("***********************************");
         System.out.println("Los numeros positivos son: " + positivos);
         System.out.println("Los numeros Negativos son: " + negativos);
         System.out.println("Los numeros cero son: " + cero);
